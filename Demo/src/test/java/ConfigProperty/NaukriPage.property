@@ -1,0 +1,4 @@
+Naukri.Login=//a[@id="login_Layer"]/div
+Naukri.userId=eLoginNew
+Naukri.password=pLogin
+Naukri.Submit=//button[@value='Login']

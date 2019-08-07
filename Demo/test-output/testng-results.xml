@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="34" started-at="2019-01-18T03:55:02Z" finished-at="2019-01-18T03:55:02Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="34" started-at="2019-01-18T03:55:02Z" finished-at="2019-01-18T03:55:02Z">
+      <class name="TestScript.TestNGAnnotations">
+        <test-method status="PASS" signature="A()[pri:0, instance:TestScript.TestNGAnnotations@59f99ea]" name="A" is-config="true" duration-ms="19" started-at="2019-01-18T03:55:02Z" finished-at="2019-01-18T03:55:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- A -->
+        <test-method status="PASS" signature="E()[pri:0, instance:TestScript.TestNGAnnotations@59f99ea]" name="E" is-config="true" duration-ms="0" started-at="2019-01-18T03:55:02Z" finished-at="2019-01-18T03:55:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- E -->
+        <test-method status="PASS" signature="C()[pri:0, instance:TestScript.TestNGAnnotations@59f99ea]" name="C" is-config="true" duration-ms="1" started-at="2019-01-18T03:55:02Z" finished-at="2019-01-18T03:55:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C -->
+        <test-method status="PASS" signature="I()[pri:0, instance:TestScript.TestNGAnnotations@59f99ea]" name="I" is-config="true" duration-ms="0" started-at="2019-01-18T03:55:02Z" finished-at="2019-01-18T03:55:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- I -->
+        <test-method status="PASS" signature="Test()[pri:0, instance:TestScript.TestNGAnnotations@59f99ea]" name="Test" duration-ms="5" started-at="2019-01-18T03:55:02Z" finished-at="2019-01-18T03:55:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method status="PASS" signature="J()[pri:0, instance:TestScript.TestNGAnnotations@59f99ea]" name="J" is-config="true" duration-ms="2" started-at="2019-01-18T03:55:02Z" finished-at="2019-01-18T03:55:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- J -->
+        <test-method status="PASS" signature="D()[pri:0, instance:TestScript.TestNGAnnotations@59f99ea]" name="D" is-config="true" duration-ms="1" started-at="2019-01-18T03:55:02Z" finished-at="2019-01-18T03:55:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- D -->
+        <test-method status="PASS" signature="F()[pri:0, instance:TestScript.TestNGAnnotations@59f99ea]" name="F" is-config="true" duration-ms="0" started-at="2019-01-18T03:55:02Z" finished-at="2019-01-18T03:55:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- F -->
+        <test-method status="PASS" signature="B()[pri:0, instance:TestScript.TestNGAnnotations@59f99ea]" name="B" is-config="true" duration-ms="1" started-at="2019-01-18T03:55:03Z" finished-at="2019-01-18T03:55:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- B -->
+      </class> <!-- TestScript.TestNGAnnotations -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

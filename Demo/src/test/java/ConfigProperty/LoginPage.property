@@ -1,0 +1,3 @@
+emailId=email
+password=pass
+submit=//input[@value='Log In']
